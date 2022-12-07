@@ -1,0 +1,3 @@
+venv
+webshop_beadando/webshop_beadando/__pycache__/
+webshop_beadando/db.sqlite3
